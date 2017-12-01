@@ -15,6 +15,11 @@ This task will get you familiarized with image processing and path planning tech
 ### Task-2: <br>
 In this task you will learn about Theta mazes of different sizes and find solutions for these mazes. 
 
+## A Python Maze Solver of Theta and regular mazes with obstacles.
+![maze-solver](https://user-images.githubusercontent.com/23000971/33503976-b4c08dc2-d70b-11e7-96e0-993b42584f81.png)
+
+
+
 ## THEME
 After the success of Mangalyaan Mission, India has taken a huge leap in deep space exploration. As you know, humans are utilizing the resources of the planet Earth on an accelerated rate. This has led us to a problem of resource scarcity. One possible solution to mitigate this problem is to search for viable planetary options that can support human life. It is better to start early in this direction of exploration of planets which can sustain human life as our population is increasing rapidly. <br>
 We are limited by the technology of our time and the targeted planets might be more than 500 million km away from Earth. It is not possible to send a manned mission to these planets. The only option we are left with is robotic technology. Automated robotic technology will not only obviate risking the lives of human beings but also help in the reduction of overall cost for such exploration. Consider the following scenario: ePlanet-903 has been discovered with promising features for sustaining life. We have already sent a module to the planet serving as the Base Station, docked strategically at the center of a crater. A robot has to navigate its way to the Base Station guided by signals from the Base Station.<br>
